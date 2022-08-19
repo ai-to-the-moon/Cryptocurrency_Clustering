@@ -1,4 +1,4 @@
-# Clustering Cryptocurrency Asset Performance wiht Sklearn
+# Clustering Cryptocurrency Asset Performance with Sklearn
 
 This Jupyter Notebook usess clustering methods to cluster cryptocurrency performance metrics. 
 
