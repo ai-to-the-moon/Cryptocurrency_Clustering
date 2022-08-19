@@ -2,10 +2,6 @@
 
 This Jupyter Notebook usess clustering methods to cluster cryptocurrency performance metrics. 
 
-The sqlalchemy library is used to create an engine that serves as the connection to the SQL database. Queries are used to select data of interest, and cumulative return metrics are plotted with the hvplot library.
-
-The application is deployed on the web using the voila library. 
-
 ## Technologies
 
 This program is written in Python (3.7.13) and developed using JupyterLabs notebooks using Windows. Additional libraries that are used in this application are pandas (1.3.5), sklearn (1.0.2), and hvplot (0.7.3) (see parenthesis for versions used in program development).
